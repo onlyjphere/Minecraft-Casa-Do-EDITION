@@ -1,0 +1,18 @@
+filename = 'refurbished_furniture-fabric-1.21.1-1.0.22.jar'
+name = "MrCrayfish's Furniture Mod: Refurbished"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '''
+MrCrayfish's Furniture Mod: Refurbished 1.0.22'''
+
+[download]
+hash = '86b532fc5fa10b6533ae8b00c1e564f0047994c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7473562
+project-id = 897116
